@@ -1,0 +1,25 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid c9993764-076f-44f6-bf4c-6b69ce17c9e4)
+
+  (paper "A5")
+
+  (lib_symbols
+  )
+
+
+  (rectangle (start 73.66 35.56) (end 137.16 110.49)
+    (stroke (width 1) (type default))
+    (fill (type none))
+    (uuid ec5da63e-05f8-4411-818a-ff03562bca2a)
+  )
+
+  (text "oomlout_oomp_tools_photography_size_grid" (at 21.59 30.48 0)
+    (effects (font (size 5 5) (thickness 1) bold) (justify left bottom))
+    (uuid 0a92e512-b41f-4a0f-9481-a8bd18cb47ea)
+  )
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)
