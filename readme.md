@@ -2,8 +2,11 @@
 OOMP Tools Photography Size Grid  
 A grid for reference in photos.  
 * ibom github: [ibom github](kicad/current_version/working/bom/ibom.html)
-* ibom direct: [ibom direct](https://raw.githack.com/oomlout/oomp_tools_photography_size_grid/main/kicad/current_version/working/bom/ibom.html)
+* ibom direct: [ibom direct](https://raw.githack.com/oomlout/oomlout_oomp_tools_photography_size_grid/main/kicad/current_version/working/bom/ibom.html)
 
+## schematic  
+[![](kicad/current_version/working/working_schematic_600.png)](kicad/current_version/working/working_schematic.png)  
+[schematic (pdf)](kicad/current_version/working/working_schematic.pdf)  
 
 ## pcb  
 [![](kicad/current_version/working/working_3d_600.png)](kicad/current_version/working/working_3d.png)  
